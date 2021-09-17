@@ -1,11 +1,11 @@
 ## Todos app with docker database
 
-# run server side
+### run server side
 cd server
 npm run dev
 
-# run front-end
+### run front-end
 yarn start
 
-# run local database
+### run local database
 docker-compose up -d
