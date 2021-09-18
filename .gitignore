@@ -1,7 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-node_modules
+hamd-on/node_modules
+hamd-on/server/node_modules
 /.pnp
 .pnp.js
 .vscode
@@ -10,7 +11,7 @@ node_modules
 /coverage
 
 # production
-/build
+hamd-on/build
 
 # misc
 .DS_Store

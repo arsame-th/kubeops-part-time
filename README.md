@@ -9,3 +9,7 @@ yarn start
 
 ### run local database
 docker-compose up -d
+
+## Algorithm part answers
+cd algorithm  
+node <file_name.js>
